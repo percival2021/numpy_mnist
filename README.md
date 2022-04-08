@@ -9,4 +9,4 @@
 ## 3.测试步骤
 + 导入参数，将模型应用于testset.npz
 + 计算准确率</br>
-详细代码步骤见<code>numpy_mnist.ipynb</code>
+详细代码和输出见<code>numpy_mnist.ipynb</code>
